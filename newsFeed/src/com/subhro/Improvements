@@ -1,0 +1,2 @@
+1. Validation should be in service layer.
+2. Try to not have 2 dao call in one service
